@@ -1,1 +1,1 @@
-# Understanding Clinical Trials
+# understanding-clinical-trials
